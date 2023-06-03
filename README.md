@@ -11,7 +11,6 @@
 - Requirement：
 	1. Write a C/C++ main() function and it calls the asmMain procedure written in x86 assembly code.
 	2. Write  asmMain procedure  (x86 assembly asmMain procedure)
-
 	3. Write a C/C++ function  AllPrimeNumbers(int N) returning the number of prime numbers less than N.
     	- In the function AllPrimeNumbers(), print out all prime numbers less than N.
         - AllPrimeNumbers() must be called in asmMain procedure.       
