@@ -71,7 +71,7 @@ L3:										; 迴圈*
 	mov b, eax
 	loop L1
 	
-	ret									; 要記得 ret QQ 不然會超出組建範圍
+	ret									; 要記得 ret 不然會超出組建範圍
 	printree ENDP
 
 END main
