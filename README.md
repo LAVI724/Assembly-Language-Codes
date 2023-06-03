@@ -4,7 +4,6 @@
 ## Information
 - 大二上學期組合語言作業與小考測驗程式
 
-### Details
 #### Homework
 - Hw0x1 Find all prime numbers less than an integer N
 - Hw0x2 Find the Minimum and Maximum Numbers
