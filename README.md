@@ -2,7 +2,7 @@
 ###### tags: `Course` `Assembly` `LAVI` `2021` 
 
 ## Information
-- 大二上學期組合語言作業與小考測驗程式
+- 大二上學期組合語言作業與小考程式
 
 ### Homework
 - Hw0x1 Find all prime numbers less than an integer N
