@@ -1,4 +1,4 @@
-.686									; 409262449 吳家萱 10/27 P1
+.686									
 .model flat, stdcall
 .stack 4096
 
