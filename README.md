@@ -17,3 +17,5 @@
             - AllPrimeNumbers() must be called in asmMain procedure.       
         4. In the  asmMain procedure, you have to input an integer N and call AllPrimeNumbers(N) which returns the number Cnt of prime numbers less than N. Print out Cnt.
         5.  Use scanf() and printf() for input and output in the asmMain assembly procedure.
+
+#### Hw0x2
